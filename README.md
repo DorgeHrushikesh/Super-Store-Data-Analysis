@@ -16,7 +16,7 @@
 
 ### Results
 
-####The Power BI analysis covers a range of topics including:
+#### The Power BI analysis covers a range of topics including:
 
 ##### - Sales performance by region, category, and product
 ##### - Seasonal sales trends
